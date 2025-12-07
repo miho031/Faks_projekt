@@ -25,8 +25,8 @@ class MyApp extends StatelessWidget {
         ),
         body: Center(
           child: Container(
-            height: 300,
-            width: 600,
+            height: 780,
+            width: 360,
 
             padding: EdgeInsets.all(25),
             decoration: BoxDecoration(
